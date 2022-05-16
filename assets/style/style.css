@@ -1,3 +1,4 @@
+/* reset */
 * {
     margin: 0;
     padding: 0;
@@ -21,8 +22,47 @@ body {
 .insta-wrapper {
     display: flex;
     align-items: center;
+    justify-content: start;
+    width: 60%;
+    height: 100vh;
+}
+
+.insta-phone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.insta-phone img {
+    height: 50rem;
 }
 
 .login-form {
-    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 50%;
+    height: 34rem;
+}
+
+.login-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: #fff;
+    width: 100%;
+    padding: 1.3rem 0;
+    border: 1px solid lightgray;
+}
+
+/* select the child(x) of the main element */
+.login-container:nth-child(1) {
+    min-height: 19rem;
+}
+
+.insta-logo {
+    height: 3rem;
 }
