@@ -38,6 +38,10 @@ body {
     height: 43rem;
 }
 
+.slider {
+    height: 30rem;
+}
+
 .login-box {
     display: flex;
     align-items: center;
