@@ -6,4 +6,4 @@ Projeto realizado utilizando [HTML](https://developer.mozilla.org/pt-BR/docs/Web
 
 link para acesso: [Insta clone - Leozizz](https://leozizz.github.io/insta-clone-dio/)
 
-A ideia inicial partiu do **Bootcamp Spread Fullstack Developer** disponibilizado pela [Digital Innovation One](htpps://web.dio.me) com orientação da professora [Gabriela Pinheiro](https://github.com/SpruceGabriela) e foram realizadas modificações por mim em cima do projeto adicionando elementos como **animações** com **CSS** e **JavaScript** para deixar mais próximo do design original utilizado pela empresa em **05/2022**.
+A ideia inicial partiu do **Bootcamp Spread Fullstack Developer** disponibilizado pela [Digital Innovation One](https://web.dio.me) com orientação da professora [Gabriela Pinheiro](https://github.com/SpruceGabriela) e foram realizadas modificações por mim em cima do projeto adicionando elementos como **animações** com **CSS** e **JavaScript** para deixar mais próximo do design original utilizado pela empresa em **05/2022**.
